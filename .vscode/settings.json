@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "[kotlin]": {
+    "editor.defaultFormatter": "fwcd.kotlin"
+  },
+  "[kotlinscript]": {
+    "editor.defaultFormatter": "fwcd.kotlin"
+  },
+  "kotlin.languageServer.enabled": true
+}
